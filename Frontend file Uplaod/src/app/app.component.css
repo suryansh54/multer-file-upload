@@ -1,0 +1,10 @@
+.cm-drop-zone {
+    width: 500px;
+    height: 500px;
+    border: 2px dashed #d8d8d8;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
